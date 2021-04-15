@@ -1,5 +1,5 @@
 
-package Boletin19;
+package com.marcos.Ventana;
 
 import java.awt.Color;
 import javax.swing.JButton;
