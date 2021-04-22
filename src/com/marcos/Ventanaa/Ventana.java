@@ -20,8 +20,8 @@ public class Ventana {
             panel2 = new JPanel();
             textoLista = new JList();
             modeloLista = new DefaultListModel();
-            bLimpar = new JButton("Limpa");
-            bPremer = new JButton("Preme");
+            bLimpar = new JButton("Limpar");
+            bPremer = new JButton("Premer");
             bBoton = new JButton("Boton");
             lTextNome = new JTextField();
             lTextPassword = new JTextField();
